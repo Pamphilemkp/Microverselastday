@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
@@ -12,4 +13,37 @@ form {
     display: block;
     margin-top: 0em;
    
+=======
+header {
+    text-align: center;
+}
+
+#title {
+    font-weight: 500;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#description {
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#survey-form {
+    line-height: 1.25;
+    max-width: 550px;
+    margin: auto;
+    padding: 35px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.input-fields {
+    font: inherit;
+    width: 80%;
+    vertical-align: middle;
+    padding: 4px;
+>>>>>>> b7839e5e3a326aff9108fdba9f6b5611bef7c392
 }
